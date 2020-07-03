@@ -1,6 +1,10 @@
 # visum-competition2020
 [VISUM 2020](http://visum.inesctec.pt) Summer School Digital Edition - The Competition Repository 
 
+Thisrepo is part of our summer school project onunderwater  fish detection.
+
+Our group is called Visioners and has three members: Brett Drury, Anas Husseis and Elona Shatri.
+
 <p align="center">
   <img src='materials/banner_digital edition.png', width="75%">
 </p>
