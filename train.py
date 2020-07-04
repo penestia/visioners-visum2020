@@ -8,8 +8,9 @@ import utils
 from dataset import Dataset
 from transforms import get_transform
 
+VERSION = "0.1"
 DATA_DIR = '/home/master/dataset/train/'
-SAVE_MODEL = ('fasterRCNN')
+SAVE_MODEL = f'fasterRCNN{VERSION}'
 
 # load a pre-trained model for classification and return
 # only the features
